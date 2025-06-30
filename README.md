@@ -26,4 +26,4 @@ The dataset used is the **California Housing Dataset**, which contains housing d
 1. **Clone this repository**
    ```bash
    git clone https://github.com/harishrij/house-price-prediction.git
-   cd california-housing-prediction
+   cd house-price-prediction
